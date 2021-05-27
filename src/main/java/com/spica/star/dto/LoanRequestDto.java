@@ -4,6 +4,6 @@ import lombok.Data;
 
 @Data
 public class LoanDto {
-    private Long bookId;
-    private Long personId;
+    private BookDto book;
+    private PersonDto personDto;
 }
