@@ -15,7 +15,7 @@
 or
 
     mvn clean package
-    java -jar target/cake-manager-1.0.0.jar
+    java -jar target/book-manager-0.0.1.jar
 
 After then please go to the link below
 
